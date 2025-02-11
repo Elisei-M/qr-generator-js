@@ -1,1 +1,1 @@
-# qr-generator-js
+[# qr-generator-js](https://elisei-m.github.io/qr-generator-js/)
